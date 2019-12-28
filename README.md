@@ -1,2 +1,2 @@
-# umamidata
+# umaminote
 for Data Science(NLP)
